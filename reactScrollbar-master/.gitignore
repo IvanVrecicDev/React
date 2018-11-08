@@ -1,0 +1,9 @@
+/dist/
+/node_modules/
+/bower_components/
+/.vscode/
+/npm-debug.log
+/examples/main.js
+/examples/site.css
+jsconfig.json
+/.idea
